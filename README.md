@@ -17,3 +17,15 @@ Total Membership, Plan ID, Plan Name
 dataset: pensionmembership
 variable name: totmembership, ppd_id, PlanName
 DESCRIPTION: 
+
+Focus plans
+101: complete,
+110: complete,
+122: missing 2016,
+125: complete,
+178: missing 2012,
+179: complete,
+83: missing 2012
+
+
+
