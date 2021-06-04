@@ -27,5 +27,7 @@ Focus plans
 179: complete,
 83: missing 2012
 
+focus_plans_list=["101","110","125","179"]
+
 
 
