@@ -27,7 +27,12 @@ Focus plans
 179: complete,
 83: missing 2012
 
-focus_plans_list=["101","110","125","179"]
+dictionary of ppd_ids that we will study:
+
+{'steady plans': ['101', '110', '125', '179'],
+ 'most improved plans': [78, 108, 42, 146, 90],
+ 'least improved plans': [36, 107, 106, 35, 105],
+ 'hardest hit plans': [163, 128, 129, 149, 30]}
 
 
 
