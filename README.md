@@ -30,9 +30,9 @@ Focus plans
 dictionary of ppd_ids that we will study:
 
 {'steady plans': ['101', '110', '125', '179'],
- 'most improved plans': [78, 108, 42, 146, 90],
- 'least improved plans': [36, 107, 106, 35, 105],
- 'hardest hit plans': [163, 128, 129, 149, 30]}
+ 'most improved plans': ['124', '90', '89', '134', '123'],
+ 'least improved plans': ['41', '122', '120', '40', '119'],
+ 'hardest hit plans': ['168', '130', '184', '151', '31']}
 
 
 
