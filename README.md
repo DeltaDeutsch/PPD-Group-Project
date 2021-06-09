@@ -1,6 +1,9 @@
 # PPD-Group-Project
 Proposal: https://docs.google.com/document/d/1AQNy7EDIod-bVpC3YMotVV52N4gtP-yYLFkwN3FchC8/edit
 
+Final Presentation: https://docs.google.com/presentation/d/1BOUD2AfbHaFl8WytpAokpMd5sy_oykY_e77XS23ypEw/present?slide=id.p
+
+
 Data Source: "http://publicplansdata.org/api/"
 
 Sample Direct API query: http://publicplansdata.org/api/?q=QVariables&variables=fy,PlanName,PercentReqContPaid,InvestmentReturn_5yr,ActFundedRatio_GASB&filterfystart=2000&filterfyend=2019&format=json
