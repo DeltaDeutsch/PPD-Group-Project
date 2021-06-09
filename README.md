@@ -17,3 +17,22 @@ Total Membership, Plan ID, Plan Name
 dataset: pensionmembership
 variable name: totmembership, ppd_id, PlanName
 DESCRIPTION: 
+
+Focus plans
+101: complete,
+110: complete,
+122: missing 2016,
+125: complete,
+178: missing 2012,
+179: complete,
+83: missing 2012
+
+dictionary of ppd_ids that we will study:
+
+{'steady plans': ['101', '110', '125', '179'],
+ 'most improved plans': ['124', '90', '89', '134', '123'],
+ 'least improved plans': ['41', '122', '120', '40', '119'],
+ 'hardest hit plans': ['168', '130', '184', '151', '31']}
+
+
+
